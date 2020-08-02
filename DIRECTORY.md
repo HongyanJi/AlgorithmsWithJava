@@ -1,5 +1,6 @@
 # Arrays and Strings
-[two sum](twoSum.java)
+[1. Two Sum](1. Two Sum)
+[3. Longest Substring Without Repeating Characters](3. Longest Substring Without Repeating Characters)
 
 # Sorts
 
